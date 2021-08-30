@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\CSharpLibrary\bin\Debug\CSharpLibrary.exe.config
+C:\Users\Intel\source\repos\CSharpLibrary\bin\Debug\CSharpLibrary.exe
+C:\Users\Intel\source\repos\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\Users\Intel\source\repos\CSharpLibrary\obj\Debug\CSharpLibrary.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\CSharpLibrary\obj\Debug\CSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\CSharpLibrary\obj\Debug\CSharpLibrary.exe
+C:\Users\Intel\source\repos\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
